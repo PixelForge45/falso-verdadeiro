@@ -5,3 +5,6 @@
 //minhaVar = true;
 
 const numero = 6
+
+const minhaVar = "oi"
+console.log(minhaVar);
