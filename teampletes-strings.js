@@ -4,4 +4,4 @@ const cidadeDeNascimento = "Curitiba"
 
 //const apresentacao = "Meu nome é " + nome + ", minha idade é " + idade + " Nasci em " + cidadeDeNascimento;
 
-console.log(apresentacao)
+console.log(apresentacao);
